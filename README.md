@@ -1,0 +1,2 @@
+# Fundamentals of Computing II
+This course examines object-oriented programming and associated algorithms using complex data structures – for example, nested structures and nonlinear structures, including hash tables, trees, and graphs. The course emphasises abstraction, encapsulation, inheritance, polymorphism, recursion, and object-oriented design patterns, and teaches students to apply these patterns to sample applications that illustrate the breadth of computer science.
